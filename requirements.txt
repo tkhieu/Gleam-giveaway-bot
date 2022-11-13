@@ -5,3 +5,4 @@ webdriver_manager==2.5.3
 colored==1.4.2
 tweepy==3.8.0
 beautifulsoup4==4.9.1
+urllib3>=1.26.5 # not directly required, pinned by Snyk to avoid a vulnerability
